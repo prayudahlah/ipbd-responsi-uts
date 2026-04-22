@@ -1,20 +1,20 @@
 
 # Praktikum IPBD Responsi UTS
-<div style="width: auto; display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhybGIxY2plMjlzM2p1NnBneXB0dXRkNm5kNm1iNTdkdDZrM2R5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif" style="width: 100px; height: 100px;"/>
-
-  <div>
-    <p align="center">
-      Prayuda Afifan Handoyo<br>
-      L0224008 | Kelas A<br>
-      Infrastruktur dan Platform Big Data
-    </p>
-  </div>
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhybGIxY2plMjlzM2p1NnBneXB0dXRkNm5kNm1iNTdkdDZrM2R5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif" style="width: 100px; height: 100px;"/>
-</div>
+<p align="center">
+  Prayuda Afifan Handoyo<br>
+  L0224008 | Kelas A<br>
+  Infrastruktur dan Platform Big Data
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhybGIxY2plMjlzM2p1NnBneXB0dXRkNm5kNm1iNTdkdDZrM2R5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif" style="width: 75px; height: 75px;"/>
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhybGIxY2plMjlzM2p1NnBneXB0dXRkNm5kNm1iNTdkdDZrM2R5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif" style="width: 75px; height: 75px;"/>
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhybGIxY2plMjlzM2p1NnBneXB0dXRkNm5kNm1iNTdkdDZrM2R5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif" style="width: 75px; height: 75px;"/>
+</p>
 
 Proyek ini adalah pipeline ETL untuk mengambil artikel dari WIRED.com, menyediakan hasil scraping melalui API REST, lalu menyimpan ke database.
 
