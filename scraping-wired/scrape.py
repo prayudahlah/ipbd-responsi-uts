@@ -58,7 +58,7 @@ def _(logging):
 
     OUTPUT_FILE = "wired_articles.json"
 
-    MAX_ARTICLES = 100
+    MAX_ARTICLES = 67
 
     logging.basicConfig(
         level=logging.INFO,
@@ -255,6 +255,9 @@ def _(
                 )
                 date = get_text(driver, "time", None)
                 date = parse_wired_date(date) if date else None
+                description = get_text(
+                    driver, "[class*='SplitScreenContentHeaderDek']", None
+                )
 
                 result.append(
                     {
@@ -262,6 +265,7 @@ def _(
                         "authors": authors,
                         "date": date,
                         "link": link,
+                        "description": description,
                     }
                 )
 

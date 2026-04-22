@@ -1,27 +1,12 @@
 [
   {
-    "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+    "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
     "authors": [
-      "TIFFANY NG"
+      "MOLLY TAFT"
     ],
-    "date": "2026-04-21 06:00:00",
-    "link": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies"
-  },
-  {
-    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-    "authors": [
-      "REECE ROGERS"
-    ],
-    "date": "2026-04-21 15:00:00",
-    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model"
-  },
-  {
-    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-    "authors": [
-      "LILY HAY NEWMAN"
-    ],
-    "date": "2026-04-21 14:30:00",
-    "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox"
+    "date": "2026-04-22 06:30:00",
+    "link": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations",
+    "description": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year."
   },
   {
     "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
@@ -29,7 +14,35 @@
       "LAUREN GOODE"
     ],
     "date": "2026-04-21 13:35:00",
-    "link": "https://www.wired.com/story/apple-tim-cook-subscription-business"
+    "link": "https://www.wired.com/story/apple-tim-cook-subscription-business",
+    "description": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era."
+  },
+  {
+    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+    "authors": [
+      "LILY HAY NEWMAN"
+    ],
+    "date": "2026-04-21 14:30:00",
+    "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox",
+    "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition."
+  },
+  {
+    "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+    "authors": [
+      "MILES KLEE"
+    ],
+    "date": "2026-04-22 05:30:00",
+    "link": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension",
+    "description": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds."
+  },
+  {
+    "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+    "authors": [
+      "EJ DICKSON"
+    ],
+    "date": "2026-04-21 07:00:00",
+    "link": "https://www.wired.com/story/ai-generated-maga-girls",
+    "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone."
   },
   {
     "title": "Framework Has a Better, More Take-Apartable Laptop",
@@ -38,23 +51,17 @@
       "LUKE LARSEN"
     ],
     "date": "2026-04-21 15:09:00",
-    "link": "https://www.wired.com/story/framework-laptop-13-pro"
+    "link": "https://www.wired.com/story/framework-laptop-13-pro",
+    "description": "The company announced its new Framework Laptop 13 Pro, along with updates to its 16-inch model."
   },
   {
-    "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
+    "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
     "authors": [
-      "MADDY VARNER"
+      "TIFFANY NG"
     ],
-    "date": "2026-04-21 12:24:00",
-    "link": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram"
-  },
-  {
-    "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
-    "authors": [
-      "EJ DICKSON"
-    ],
-    "date": "2026-04-21 07:00:00",
-    "link": "https://www.wired.com/story/ai-generated-maga-girls"
+    "date": "2026-04-21 06:00:00",
+    "link": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies",
+    "description": null
   },
   {
     "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
@@ -62,7 +69,8 @@
       "DAVID GILBERT"
     ],
     "date": "2026-04-17 09:19:00",
-    "link": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged"
+    "link": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged",
+    "description": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president."
   },
   {
     "title": "They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In",
@@ -70,23 +78,8 @@
       "BOONE ASHWORTH"
     ],
     "date": "2026-04-18 06:30:00",
-    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it"
-  },
-  {
-    "title": "6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths",
-    "authors": [
-      "LORENZO LAMPERTI"
-    ],
-    "date": "2026-04-17 04:30:00",
-    "link": "https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths"
-  },
-  {
-    "title": "The 8 Best Movies to Stream This Month",
-    "authors": [
-      "MATT KAMEN"
-    ],
-    "date": "2026-04-18 05:30:00",
-    "link": "https://www.wired.com/story/the-best-movies-to-stream-right-now"
+    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it",
+    "description": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up."
   },
   {
     "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
@@ -95,7 +88,27 @@
       "ROBERT SILVERMAN"
     ],
     "date": "2026-04-17 06:00:00",
-    "link": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine"
+    "link": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine",
+    "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more."
+  },
+  {
+    "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+    "authors": [
+      "BOONE ASHWORTH"
+    ],
+    "date": "2026-04-20 09:00:00",
+    "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche",
+    "description": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time."
+  },
+  {
+    "title": "Apple CEO Tim Cook Is Stepping Down",
+    "authors": [
+      "LAUREN GOODE",
+      "PARESH DAVE"
+    ],
+    "date": "2026-04-20 17:02:00",
+    "link": "https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus",
+    "description": "John Ternus, the company’s senior vice president of hardware engineering, will replace Cook as CEO on September 1. Cook will stay on as executive chairman."
   },
   {
     "title": "The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’",
@@ -103,23 +116,8 @@
       "KATIE DRUMMOND"
     ],
     "date": "2026-04-21 06:30:00",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone"
-  },
-  {
-    "title": "The Best Electrolyte Powders and Supplements",
-    "authors": [
-      "LOURYN STRAMPE"
-    ],
-    "date": "2026-04-21 09:33:00",
-    "link": "https://www.wired.com/story/best-electrolyte-powders"
-  },
-  {
-    "title": "The Best Gaming Laptops",
-    "authors": [
-      "LUKE LARSEN"
-    ],
-    "date": "2026-04-21 07:30:00",
-    "link": "https://www.wired.com/story/best-gaming-laptops"
+    "link": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone",
+    "description": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he’s warning that the sheer volume of Trump administration scandals is distorting reality itself."
   },
   {
     "title": "AI Drafting My Stories? Over My Dead Body",
@@ -127,7 +125,8 @@
       "STEVEN LEVY"
     ],
     "date": "2026-04-17 11:46:00",
-    "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing"
+    "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing",
+    "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit."
   },
   {
     "title": "The Online Fiction Boom Reimagining China’s History",
@@ -135,7 +134,8 @@
       "ZEYI YANG"
     ],
     "date": "2026-04-16 14:17:00",
-    "link": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling"
+    "link": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling",
+    "description": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics."
   },
   {
     "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
@@ -144,7 +144,8 @@
       "PARESH DAVE"
     ],
     "date": "2026-04-16 14:00:00",
-    "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai"
+    "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai",
+    "description": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know."
   },
   {
     "title": "AI Could Democratize One of Tech's Most Valuable Resources",
@@ -152,7 +153,8 @@
       "WILL KNIGHT"
     ],
     "date": "2026-04-15 14:00:00",
-    "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources"
+    "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources",
+    "description": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking."
   },
   {
     "title": "Where the DOGE Operatives Are Now",
@@ -160,7 +162,8 @@
       "VITTORIA ELLIOTT"
     ],
     "date": "2026-04-16 06:30:00",
-    "link": "https://www.wired.com/story/where-the-doge-operatives-are-now"
+    "link": "https://www.wired.com/story/where-the-doge-operatives-are-now",
+    "description": "WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond."
   },
   {
     "title": "MAGA Is Starting to Look Beyond Trump",
@@ -168,7 +171,8 @@
       "DAVID GILBERT"
     ],
     "date": "2026-04-15 11:00:00",
-    "link": "https://www.wired.com/story/maga-is-starting-to-look-beyond-trump"
+    "link": "https://www.wired.com/story/maga-is-starting-to-look-beyond-trump",
+    "description": "A seemingly endless torrent of criticism directed toward Trump from former MAGA allies suggests the president is losing support from his base."
   },
   {
     "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
@@ -176,7 +180,8 @@
       "TIMOTHY MCLAUGHLIN"
     ],
     "date": "2026-04-20 06:00:00",
-    "link": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad"
+    "link": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad",
+    "description": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning."
   },
   {
     "title": "Security News This Week: It Takes 2 Minutes to Hack the EU-s New Age-Verification App",
@@ -187,7 +192,8 @@
       "ANDREW COUTS"
     ],
     "date": "2026-04-18 06:30:00",
-    "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app"
+    "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app",
+    "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more."
   },
   {
     "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
@@ -195,7 +201,8 @@
       "LILY HAY NEWMAN"
     ],
     "date": "2026-04-14 16:00:00",
-    "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy"
+    "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy",
+    "description": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model."
   },
   {
     "title": "How to Watch the Lyrids Meteor Shower at Its Peak",
@@ -203,7 +210,8 @@
       "JORGE GARAY"
     ],
     "date": "2026-04-21 05:00:00",
-    "link": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026"
+    "link": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026",
+    "description": "Between the night of April 21 and the early morning of April 22, those looking in the right place will see the sky light up with 15 to 20 meteors per hour."
   },
   {
     "title": "There’s New Evidence for How Loneliness Affects Memory in Old Age",
@@ -211,7 +219,8 @@
       "JORGE GARAY"
     ],
     "date": "2026-04-20 05:00:00",
-    "link": "https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age"
+    "link": "https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age",
+    "description": "A longitudinal study found that loneliness is closely linked to lapses in immediate and delayed recall."
   },
   {
     "title": "The ‘Lonely Runner’ Problem Only Appears Simple",
@@ -219,7 +228,17 @@
       "PAULINA ROWIŃSKA"
     ],
     "date": "2026-04-18 05:00:00",
-    "link": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple"
+    "link": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple",
+    "description": "Take a group of runners circling a track at unique, constant paces. Answering the question of how many will always end up running alone, no matter their speed, has vexed mathematicians for decades."
+  },
+  {
+    "title": "Submit Your Questions: Musk v. Altman and the Future of OpenAI",
+    "authors": [
+      "BY EJ DICKSON"
+    ],
+    "date": "2026-04-22 06:00:00",
+    "link": "https://www.wired.com/story/livestream-musk-v-altman-trial",
+    "description": "Pose your questions ahead of our May 8 livestream about the Musk v. Altman trial that could determine the fate of OpenAI."
   },
   {
     "title": "A Humanoid Robot Set a Half-Marathon Record in China",
@@ -227,24 +246,26 @@
       "JAVIER CARBAJAL"
     ],
     "date": "2026-04-20 18:33:00",
-    "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china"
+    "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china",
+    "description": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes."
   },
   {
-    "title": "Apple CEO Tim Cook Is Stepping Down",
+    "title": "7 Apps to Help You Trim Down Subscriptions—and Save Money",
     "authors": [
-      "LAUREN GOODE",
-      "PARESH DAVE"
+      "DAVID NIELD"
     ],
-    "date": "2026-04-20 17:02:00",
-    "link": "https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus"
+    "date": "2026-04-22 07:00:00",
+    "link": "https://www.wired.com/story/apps-cancel-subscriptions-save-money",
+    "description": null
   },
   {
-    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
     "authors": [
-      "MAXWELL ZEFF"
+      "REECE ROGERS"
     ],
-    "date": "2026-04-17 15:56:00",
-    "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company"
+    "date": "2026-04-21 15:00:00",
+    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model",
+    "description": "The ChatGPT Images 2.0 model is here. Our testing shows that it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English."
   },
   {
     "title": "TAG Heuer Has Dropped New Polylight-Powered F1s",
@@ -252,39 +273,35 @@
       "JEREMY WHITE"
     ],
     "date": "2026-04-21 12:02:00",
-    "link": "https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s"
+    "link": "https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s",
+    "description": "The five new Formula 1 watches are driven by light—and we have a definite favorite."
   },
   {
-    "title": "A Hot-Air Balloon Landed in a California Backyard. The Owner Says It's a 'Very Rare' Event",
+    "title": "The Best Chromebooks",
     "authors": [
-      "BRIAN BARRETT"
+      "LUKE LARSEN"
     ],
-    "date": "2026-04-20 14:54:00",
-    "link": "https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard"
+    "date": "2026-04-22 07:30:00",
+    "link": "https://www.wired.com/story/best-chromebooks",
+    "description": "Chromebooks have a reputation for being cheap and crappy. But they don't have to be. These are the Chromebooks that prove it."
   },
   {
-    "title": "Hyundai’s New Ioniq 3 Has Hot-Hatch Looks, but Can It Beat BYD?",
+    "title": "The Best Red Light Therapy Masks Can Save You Thousands of Dollars in Facials",
     "authors": [
-      "JEREMY WHITE"
+      "BOUTAYNA CHOKRANE"
     ],
-    "date": "2026-04-20 11:03:00",
-    "link": "https://www.wired.com/story/hyundai-ioniq-3-2026"
+    "date": "2026-04-22 05:30:00",
+    "link": "https://www.wired.com/story/led-face-masks-and-red-light-therapy",
+    "description": null
   },
   {
-    "title": "The Best Kitchen Composters and Food Recyclers",
+    "title": "The Best Valvoline Coupons and Promo Codes for April 2026",
     "authors": [
       "KAT MERCK"
     ],
-    "date": "2026-04-20 17:38:00",
-    "link": "https://www.wired.com/story/home-composters-buying-guide"
-  },
-  {
-    "title": "Snag a Great Deal on the Best Noise-Canceling Earbuds",
-    "authors": [
-      "LOURYN STRAMPE"
-    ],
-    "date": "2026-04-20 07:07:00",
-    "link": "https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026"
+    "date": "2026-04-22 02:00:00",
+    "link": "https://www.wired.com/story/valvoline-coupons",
+    "description": null
   },
   {
     "title": "War Memes Are Turning Conflict Into Content",
@@ -292,7 +309,8 @@
       "RAND AL-HADETHI"
     ],
     "date": "2026-04-20 14:42:00",
-    "link": "https://www.wired.com/story/war-memes-turn-conflict-into-content"
+    "link": "https://www.wired.com/story/war-memes-turn-conflict-into-content",
+    "description": "The jokes were funny. The systems behind them—and the reasons we keep passing around war memes as entertainment—are more serious."
   },
   {
     "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
@@ -300,7 +318,8 @@
       "MILES KLEE"
     ],
     "date": "2026-04-20 07:00:00",
-    "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once"
+    "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once",
+    "description": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control."
   },
   {
     "title": "The Influencers Normalizing Not Having Sex",
@@ -308,7 +327,17 @@
       "SKYE BATTLES"
     ],
     "date": "2026-04-17 06:30:00",
-    "link": "https://www.wired.com/story/the-influencers-normalizing-not-having-sex"
+    "link": "https://www.wired.com/story/the-influencers-normalizing-not-having-sex",
+    "description": "From a celibate porn star to an asexual ex-Mormon, the internet is full of people who are abstaining from sex—and it’s not just incels."
+  },
+  {
+    "title": "The 8 Best Movies to Stream This Month",
+    "authors": [
+      "MATT KAMEN"
+    ],
+    "date": "2026-04-18 05:30:00",
+    "link": "https://www.wired.com/story/the-best-movies-to-stream-right-now",
+    "description": "28 Years Later: The Bone Temple, Crime 101, and Deathstalker are among the films deserving of your eyeballs this month."
   },
   {
     "title": "The 10 Best TV Shows to Stream This Month",
@@ -316,7 +345,8 @@
       "JENNIFER M. WOOD"
     ],
     "date": "2026-04-14 16:59:00",
-    "link": "https://www.wired.com/story/the-best-shows-to-stream-right-now"
+    "link": "https://www.wired.com/story/the-best-shows-to-stream-right-now",
+    "description": "The Boys, The Testaments, and Stranger Things: Tales From ’85 are just a few of the TV shows we’re bingeing this month."
   },
   {
     "title": "The 24 Best Movies on Amazon Prime Right Now",
@@ -325,7 +355,8 @@
       "WIRED STAFF"
     ],
     "date": "2026-01-31 07:00:00",
-    "link": "https://www.wired.com/story/best-amazon-prime-movies"
+    "link": "https://www.wired.com/story/best-amazon-prime-movies",
+    "description": "Sinners, Wicked, and Die Hard are just a few of the movies you should be watching on Amazon Prime Video this week."
   },
   {
     "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
@@ -333,7 +364,8 @@
       "KATIE DRUMMOND"
     ],
     "date": "2026-04-14 06:30:00",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores"
+    "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores",
+    "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress."
   },
   {
     "title": "Uncanny Valley: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
@@ -342,7 +374,8 @@
       "LEAH FEIGER"
     ],
     "date": "2026-04-10 12:21:00",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home"
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home",
+    "description": "In this episode, the hosts discuss the fight between OpenAI and Elon Musk, the misuse of voter data, and Artemis II’s moonshot."
   },
   {
     "title": "He Started a Social Network Alone. Then 5 Million People Signed Up",
@@ -350,7 +383,8 @@
       "KATIE DRUMMOND"
     ],
     "date": "2026-04-07 06:30:00",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi"
+    "link": "https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi",
+    "description": "Issam Hijazi launched UpScrolled after users alleged censorship on other platforms. Nine months later, its user base is soaring—while Hijazi tries to catch up with his own success."
   },
   {
     "title": "The Gamblers Behind One of the Weirdest Cheating Mysteries in Chess Have Been Unmasked",
@@ -358,7 +392,8 @@
       "KIT CHELLEL"
     ],
     "date": "2026-04-14 06:00:00",
-    "link": "https://www.wired.com/story/book-excerpt-lucky-devils-1993-chess-mystery-solved"
+    "link": "https://www.wired.com/story/book-excerpt-lucky-devils-1993-chess-mystery-solved",
+    "description": null
   },
   {
     "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
@@ -366,7 +401,8 @@
       "NOAM SCHEIBER"
     ],
     "date": "2026-04-07 06:00:00",
-    "link": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro"
+    "link": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro",
+    "description": null
   },
   {
     "title": "Opposing ICE Might Save the Country. It Could Also Ruin Your Life",
@@ -374,7 +410,8 @@
       "BRENDAN I. KOERNER"
     ],
     "date": "2026-03-31 06:00:00",
-    "link": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life"
+    "link": "https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life",
+    "description": null
   },
   {
     "title": "‘Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race",
@@ -382,7 +419,8 @@
       "MATTHEW REAMER"
     ],
     "date": "2026-03-30 06:00:00",
-    "link": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4"
+    "link": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4",
+    "description": null
   },
   {
     "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
@@ -390,7 +428,8 @@
       "AARIAN MARSHALL"
     ],
     "date": "2026-04-17 05:30:00",
-    "link": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz"
+    "link": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz",
+    "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative."
   },
   {
     "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
@@ -398,7 +437,8 @@
       "EVANGELINE ELSA"
     ],
     "date": "2026-04-13 16:20:00",
-    "link": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire"
+    "link": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire",
+    "description": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface."
   },
   {
     "title": "Security News This Week: Your Push Notifications Aren’t Safe From the FBI",
@@ -409,7 +449,8 @@
       "DELL CAMERON"
     ],
     "date": "2026-04-11 06:30:00",
-    "link": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi"
+    "link": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi",
+    "description": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more."
   },
   {
     "title": "How the Internet Broke Everyone’s Bullshit Detectors",
@@ -417,7 +458,8 @@
       "GIA CHAUDRY"
     ],
     "date": "2026-04-11 05:30:00",
-    "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors"
+    "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors",
+    "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up."
   },
   {
     "title": "MAGA Media Seems to Have Hit Its Breaking Point Over Iran",
@@ -425,7 +467,8 @@
       "MAKENA KELLY"
     ],
     "date": "2026-04-09 10:05:00",
-    "link": "https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran"
+    "link": "https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran",
+    "description": "“The online right wasn’t supportive and there wasn’t anything that was going to change that,” says one person familiar with the Republican influencer pipeline."
   },
   {
     "title": "How Citizen Surveillance Ate San Francisco",
@@ -433,7 +476,8 @@
       "LAUREN SMILEY"
     ],
     "date": "2023-11-07 06:00:00",
-    "link": "https://www.wired.com/story/san-francisco-doom-loop-citizen-surveillance"
+    "link": "https://www.wired.com/story/san-francisco-doom-loop-citizen-surveillance",
+    "description": null
   },
   {
     "title": "When a Houseplant Obsession Becomes a Nightmare",
@@ -441,7 +485,8 @@
       "BRIAN HOWEY"
     ],
     "date": "2022-10-20 07:00:00",
-    "link": "https://www.wired.com/story/nightmare-houseplant-obsession-nepenthes"
+    "link": "https://www.wired.com/story/nightmare-houseplant-obsession-nepenthes",
+    "description": null
   },
   {
     "title": "How One Syrian Fought to the Death for a Free Internet",
@@ -449,7 +494,8 @@
       "ALICE SU"
     ],
     "date": "2017-09-27 07:00:00",
-    "link": "https://www.wired.com/story/how-one-syrian-fought-to-the-death-for-a-free-internet"
+    "link": "https://www.wired.com/story/how-one-syrian-fought-to-the-death-for-a-free-internet",
+    "description": "Basel Khartabil hoped the internet would lead to a flowering of freedom and openness in Syria. Then he was arrested and imprisoned by the Assad regime."
   },
   {
     "title": "Pan Am Flight 103: Robert Mueller’s 30-Year Search for Justice",
@@ -457,7 +503,8 @@
       "GARRETT M. GRAFF"
     ],
     "date": "2018-12-27 07:00:00",
-    "link": "https://www.wired.com/story/robert-muellers-search-for-justice-for-pan-am-103"
+    "link": "https://www.wired.com/story/robert-muellers-search-for-justice-for-pan-am-103",
+    "description": null
   },
   {
     "title": "Where to Find the Energy to Save the World",
@@ -465,121 +512,53 @@
       "MARIA STRESHINSKY"
     ],
     "date": "2023-05-04 06:00:00",
-    "link": "https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas"
+    "link": "https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas",
+    "description": null
   },
   {
-    "title": "I Took RFK Jr.’s Advice and Ate Nothing but High-Protein Foods for a Week",
+    "title": "The US Government Will Ask Data Centers How Much Power They Use",
     "authors": [
-      "MILES KLEE"
+      "MOLLY TAFT"
     ],
-    "date": "2026-04-02 07:00:00",
-    "link": "https://www.wired.com/story/i-took-rfk-jrs-advice-and-ate-nothing-but-high-protein-foods-for-a-week"
+    "date": "2026-04-15 12:00:00",
+    "link": "https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use",
+    "description": "In a letter obtained by WIRED, the Energy Information Administration tells two senators that it plans to develop a mandatory assessment of data centers' energy use."
   },
   {
-    "title": "Livestream Replay: The War Machine",
+    "title": "The EPA Is Ending Greenhouse Gas Data Collection. Who Will Step Up to Fill the Gap?",
     "authors": [
-      "TIM MARCHMAN",
-      "PARESH DAVE",
-      "CARLA SERTIN"
+      "MOLLY TAFT"
     ],
-    "date": "2026-03-18 06:30:00",
-    "link": "https://www.wired.com/story/livestream-the-war-machine"
+    "date": "2025-10-01 05:30:00",
+    "link": "https://www.wired.com/story/the-epa-is-ending-greenhouse-gas-data-collection-who-will-step-up-to-fill-the-gap",
+    "description": null
   },
   {
-    "title": "The US Military’s GPS Software Is an $8 Billion Mess",
+    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
     "authors": [
-      "STEPHEN CLARK, ARS TECHNICA"
+      "MAXWELL ZEFF"
     ],
-    "date": "2026-03-31 13:34:00",
-    "link": "https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess"
+    "date": "2026-04-17 15:56:00",
+    "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company",
+    "description": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex."
   },
   {
-    "title": "The DOJ Misled a Judge About How It’s Using Voter Roll Data",
-    "authors": [
-      "DAVID GILBERT"
-    ],
-    "date": "2026-04-06 07:00:00",
-    "link": "https://www.wired.com/story/doj-misled-judge-voter-roll-data"
-  },
-  {
-    "title": "Europe Gets Serious About Age Verification Online",
-    "authors": [
-      "LAURA CARRER"
-    ],
-    "date": "2026-04-07 02:00:00",
-    "link": "https://www.wired.com/story/europe-gets-serious-about-age-verification-online"
-  },
-  {
-    "title": "Your Body Is Betraying Your Right to Privacy",
-    "authors": [
-      "ANDREW GUTHRIE FERGUSON"
-    ],
-    "date": "2026-03-24 06:00:00",
-    "link": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson"
-  },
-  {
-    "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
+    "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
     "authors": [
       "MADDY VARNER"
     ],
-    "date": "2026-04-09 06:00:00",
-    "link": "https://www.wired.com/story/political-campaign-security-spending"
+    "date": "2026-04-21 12:24:00",
+    "link": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram",
+    "description": "A lawsuit from the Consumer Federation of America accuses Meta of misleading consumers about its efforts to combat scams advertisements on its platforms."
   },
   {
-    "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
+    "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
     "authors": [
-      "MAXWELL ZEFF"
+      "LILY HAY NEWMAN"
     ],
-    "date": "2026-04-10 12:32:00",
-    "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat"
-  },
-  {
-    "title": "The Best Fans to Buy Before It Gets Hot Again",
-    "authors": [
-      "KAT MERCK"
-    ],
-    "date": "2026-04-19 06:00:00",
-    "link": "https://www.wired.com/story/the-best-fans-2026"
-  },
-  {
-    "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
-    "authors": [
-      "DELL CAMERON"
-    ],
-    "date": "2026-04-17 10:07:00",
-    "link": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance"
-  },
-  {
-    "title": "CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards",
-    "authors": [
-      "SAMMY SUSSMAN"
-    ],
-    "date": "2026-04-03 05:00:00",
-    "link": "https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards"
-  },
-  {
-    "title": "The Best Meta Glasses for Looking Hot and Invading Everyone's Privacy",
-    "authors": [
-      "ADRIENNE SO"
-    ],
-    "date": "2026-04-19 07:00:00",
-    "link": "https://www.wired.com/story/best-meta-glasses"
-  },
-  {
-    "title": "Your Outdoor Smart Home Gear Doesn't Have to Be Ugly",
-    "authors": [
-      "NENA FARRELL"
-    ],
-    "date": "2026-04-18 07:02:00",
-    "link": "https://www.wired.com/story/smart-home-curb-appeal"
-  },
-  {
-    "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
-    "authors": [
-      "MAXWELL ZEFF"
-    ],
-    "date": "2026-03-11 06:00:00",
-    "link": "https://www.wired.com/story/openai-codex-race-claude-code"
+    "date": "2026-04-07 14:49:00",
+    "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing",
+    "description": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities."
   },
   {
     "title": "Staunch Trump Supporters Are Now Asking if He’s the Antichrist",
@@ -588,7 +567,8 @@
       "DAVID GILBERT"
     ],
     "date": "2026-04-13 13:17:00",
-    "link": "https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist"
+    "link": "https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist",
+    "description": "The Iran war and a series of social media posts, including one depicting Trump as Jesus Christ, have some conservative commentators and fans suspecting the president may be the antichrist."
   },
   {
     "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
@@ -596,225 +576,43 @@
       "ANDY GREENBERG"
     ],
     "date": "2026-04-07 16:13:00",
-    "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure"
+    "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure",
+    "description": "As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure."
   },
   {
-    "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
+    "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
     "authors": [
-      "WILL KNIGHT"
+      "MOLLY TAFT"
     ],
-    "date": "2026-04-02 12:00:00",
-    "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions"
+    "date": "2026-04-02 14:27:00",
+    "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant",
+    "description": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry."
   },
   {
-    "title": "The US Army Is Building Its Own Chatbot for Combat",
+    "title": "Senators Demand to Know How Much Energy Data Centers Use",
     "authors": [
-      "WILL KNIGHT"
+      "MOLLY TAFT"
     ],
-    "date": "2026-04-08 14:00:00",
-    "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers"
+    "date": "2026-03-26 08:00:00",
+    "link": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use",
+    "description": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers."
   },
   {
-    "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+    "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
     "authors": [
-      "MAXWELL ZEFF"
+      "MOLLY TAFT"
     ],
-    "date": "2026-04-08 13:00:00",
-    "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents"
+    "date": "2026-03-25 09:28:00",
+    "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction",
+    "description": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead."
   },
   {
-    "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+    "title": "NASA Wants to Put Nuclear Reactors on the Moon",
     "authors": [
-      "WILL KNIGHT"
+      "JORGE GARAY"
     ],
-    "date": "2026-04-08 14:51:00",
-    "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source"
-  },
-  {
-    "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-    "authors": [
-      "MAXWELL ZEFF"
-    ],
-    "date": "2026-04-09 20:19:00",
-    "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits"
-  },
-  {
-    "title": "AI Slop Is Making the Internet Fake-Happy",
-    "authors": [
-      "KATE KNIBBS"
-    ],
-    "date": "2026-04-15 07:00:00",
-    "link": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think"
-  },
-  {
-    "title": "This Beanie Is Designed to Read Your Thoughts",
-    "authors": [
-      "EMILY MULLIN"
-    ],
-    "date": "2026-04-16 07:00:00",
-    "link": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts"
-  },
-  {
-    "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
-    "authors": [
-      "REECE ROGERS"
-    ],
-    "date": "2026-04-10 05:30:00",
-    "link": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice"
-  },
-  {
-    "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
-    "authors": [
-      "BRIAN BARRETT"
-    ],
-    "date": "2026-04-15 10:58:00",
-    "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not"
-  },
-  {
-    "title": "T-Mobile Business Internet and Phone Deals",
-    "authors": [
-      "MOLLY HIGGINS"
-    ],
-    "date": "2026-03-31 01:00:00",
-    "link": "https://www.wired.com/story/t-mobile-business-promo-code"
-  },
-  {
-    "title": "Top Squarespace Promo Codes: 20% Off in April 2026",
-    "authors": [
-      "MOLLY HIGGINS"
-    ],
-    "date": "2026-04-17 01:00:00",
-    "link": "https://www.wired.com/story/squarespace-promo-code"
-  },
-  {
-    "title": "LG Promo Codes and Coupons for April 2026",
-    "authors": [
-      "RYAN WANIATA"
-    ],
-    "date": "2026-04-09 01:00:00",
-    "link": "https://www.wired.com/story/lg-promo-code"
-  },
-  {
-    "title": "10% Off Dell Coupon Codes for April 2026",
-    "authors": [
-      "SCOTT GILBERTSON"
-    ],
-    "date": "2026-04-09 01:00:00",
-    "link": "https://www.wired.com/story/dell-coupon-code"
-  },
-  {
-    "title": "Samsung Promo Codes: 30% Off in April 2026",
-    "authors": [
-      "MOLLY HIGGINS"
-    ],
-    "date": "2026-04-14 01:00:00",
-    "link": "https://www.wired.com/story/samsung-promo-codes"
-  },
-  {
-    "title": "Top Canon Promo Codes: 30% Off for April 2026",
-    "authors": [
-      "SCOTT GILBERTSON"
-    ],
-    "date": "2026-04-09 01:00:00",
-    "link": "https://www.wired.com/story/canon-promo-code"
-  },
-  {
-    "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-    "authors": [
-      "LILY HAY NEWMAN"
-    ],
-    "date": "2026-04-10 14:08:00",
-    "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think"
-  },
-  {
-    "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
-    "authors": [
-      "LILY HAY NEWMAN"
-    ],
-    "date": "2026-04-07 14:49:00",
-    "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing"
-  },
-  {
-    "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-    "authors": [
-      "DELL CAMERON"
-    ],
-    "date": "2026-04-13 12:01:00",
-    "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society"
-  },
-  {
-    "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-    "authors": [
-      "MATT BURGESS"
-    ],
-    "date": "2026-04-15 06:00:00",
-    "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis"
-  },
-  {
-    "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
-    "authors": [
-      "REECE ROGERS"
-    ],
-    "date": "2026-04-16 13:00:00",
-    "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome"
-  },
-  {
-    "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
-    "authors": [
-      "REECE ROGERS"
-    ],
-    "date": "2026-04-14 13:00:00",
-    "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills"
-  },
-  {
-    "title": "Men Are Buying Hacking Tools to Use Against Their Wives and Friends",
-    "authors": [
-      "MATT BURGESS"
-    ],
-    "date": "2026-04-08 03:00:00",
-    "link": "https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends"
-  },
-  {
-    "title": "Security News This Week: Hackers Are Posting the Claude Code Leak With Bonus Malware",
-    "authors": [
-      "ANDY GREENBERG",
-      "DELL CAMERON",
-      "MADDY VARNER",
-      "ANDREW COUTS"
-    ],
-    "date": "2026-04-04 06:30:00",
-    "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware"
-  },
-  {
-    "title": "AI Has Flooded All the Weather Apps",
-    "authors": [
-      "BOONE ASHWORTH"
-    ],
-    "date": "2026-03-31 09:00:00",
-    "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps"
-  },
-  {
-    "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-    "authors": [
-      "REECE ROGERS"
-    ],
-    "date": "2026-03-27 06:30:00",
-    "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often"
-  },
-  {
-    "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
-    "authors": [
-      "STEVEN LEVY"
-    ],
-    "date": "2026-04-10 12:00:00",
-    "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition"
-  },
-  {
-    "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-    "authors": [
-      "MAXWELL ZEFF"
-    ],
-    "date": "2026-03-26 14:00:00",
-    "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories"
+    "date": "2026-04-15 14:55:00",
+    "link": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon",
+    "description": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon."
   }
 ]

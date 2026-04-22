@@ -6,7 +6,7 @@
   },
   "cells": [
     {
-      "id": "mVyb",
+      "id": "Hbol",
       "code_hash": "1fcb1899d265291844b16febb305712f",
       "outputs": [
         {
@@ -19,7 +19,7 @@
       "console": []
     },
     {
-      "id": "Hbol",
+      "id": "MJUe",
       "code_hash": "5b7e7771b95e537b34c58b72c2b677c7",
       "outputs": [
         {
@@ -30,6 +30,97 @@
         }
       ],
       "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "50451e6955dc3b3b105fc3c0a25f01cd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"constants-dan-logging\">Constants dan Logging</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "320f2c7a3c07a2655167058fdde73172",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "5b2d2374635f71abbdccc226e9a7ce85",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"utility-functions\">Utility Functions</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "9cd584cff3ad80128729a59d481c384e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "874e70ac8199c365df157779b8df71d0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"scrape\">Scrape</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "b34589af7c5323a8bc59fa20c19d19ff",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "2026-04-22 19:08:51 | INFO | patching driver executable /home/prayudahlah/.local/share/undetected_chromedriver/undetected_chromedriver\n2026-04-22 19:09:05 | INFO | Starting scraping | Target: 67 articles | Initial links: 56\n2026-04-22 19:10:04 | INFO | [1/67] New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Ent\n2026-04-22 19:10:04 | INFO | Discovered 18 new links | Total pending: 73\n2026-04-22 19:10:14 | INFO | [2/67] Tim Cook\u2019s Legacy Is Turning Apple Into a Subscription\n2026-04-22 19:10:14 | INFO | Discovered 11 new links | Total pending: 83\n2026-04-22 19:10:19 | INFO | [3/67] Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox\n2026-04-22 19:10:20 | INFO | Discovered 9 new links | Total pending: 91\n2026-04-22 19:10:36 | INFO | [4/67] The Pope\u2019s Warnings About AI Were AI-Generated, a Detection Tool Claim\n2026-04-22 19:10:36 | INFO | Discovered 5 new links | Total pending: 95\n2026-04-22 19:10:43 | INFO | [5/67] This Scammer Used an AI-Generated MAGA Girl to Grift \u2018Super Dumb\u2019 Men\n2026-04-22 19:10:43 | INFO | Discovered 4 new links | Total pending: 98\n2026-04-22 19:10:54 | INFO | [6/67] Framework Has a Better, More Take-Apartable Laptop\n2026-04-22 19:10:54 | INFO | Discovered 21 new links | Total pending: 118\n2026-04-22 19:11:00 | INFO | [7/67] They Built a Legendary Privacy Tool. Now They\u2019re Sworn Enemies\n2026-04-22 19:11:00 | INFO | Discovered 7 new links | Total pending: 124\n2026-04-22 19:11:07 | INFO | [8/67] MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Sta\n2026-04-22 19:11:07 | INFO | Discovered 9 new links | Total pending: 132\n2026-04-22 19:11:21 | INFO | [9/67] They Built the \u2018Cursor for Hardware.\u2019 Now, Anthropic Wants In\n2026-04-22 19:11:21 | INFO | Discovered 7 new links | Total pending: 138\n2026-04-22 19:11:32 | INFO | [10/67] The Shocking Secrets of Madison Square Garden\u2019s Surveillance Machine\n2026-04-22 19:11:32 | INFO | Discovered 4 new links | Total pending: 141\n2026-04-22 19:11:37 | INFO | [11/67] Prego Has a Dinner-Conversation-Recording Device, Capisce?\n2026-04-22 19:11:37 | INFO | Discovered 1 new links | Total pending: 141\n2026-04-22 19:11:42 | INFO | [12/67] Apple CEO Tim Cook Is Stepping Down\n2026-04-22 19:11:42 | INFO | Discovered 2 new links | Total pending: 142\n2026-04-22 19:11:47 | INFO | [13/67] The Internet\u2019s Favorite Lawyer Says We\u2019re Living Through \u2018Multiple Wat\n2026-04-22 19:11:47 | INFO | Discovered 2 new links | Total pending: 143\n2026-04-22 19:11:51 | INFO | [14/67] AI Drafting My Stories? Over My Dead Body\n2026-04-22 19:11:52 | INFO | Discovered 2 new links | Total pending: 144\n2026-04-22 19:11:58 | INFO | [15/67] The Online Fiction Boom Reimagining China\u2019s History\n2026-04-22 19:11:58 | INFO | Discovered 2 new links | Total pending: 145\n2026-04-22 19:12:03 | INFO | [16/67] Musk v. Altman Is a Battle for OpenAI\u2019s Soul\n2026-04-22 19:12:03 | INFO | Discovered 5 new links | Total pending: 149\n2026-04-22 19:12:07 | INFO | [17/67] AI Could Democratize One of Tech's Most Valuable Resources\n2026-04-22 19:12:08 | INFO | Discovered 4 new links | Total pending: 152\n2026-04-22 19:12:19 | INFO | [18/67] Where the DOGE Operatives Are Now\n2026-04-22 19:12:20 | INFO | Discovered 2 new links | Total pending: 153\n2026-04-22 19:12:27 | INFO | [19/67] MAGA Is Starting to Look Beyond Trump\n2026-04-22 19:12:27 | INFO | Discovered 1 new links | Total pending: 153\n2026-04-22 19:12:35 | INFO | [20/67] The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad\n2026-04-22 19:12:35 | INFO | Discovered 9 new links | Total pending: 161\n2026-04-22 19:12:41 | INFO | [21/67] Security News This Week: It Takes 2 Minutes to Hack the EU-s New Age-V\n2026-04-22 19:12:41 | INFO | Discovered 3 new links | Total pending: 163\n2026-04-22 19:12:46 | INFO | [22/67] In the Wake of Anthropic\u2019s Mythos, OpenAI Has a New Cybersecurity Mode\n2026-04-22 19:12:55 | INFO | [23/67] How to Watch the Lyrids Meteor Shower at Its Peak\n2026-04-22 19:12:55 | INFO | Discovered 8 new links | Total pending: 169\n2026-04-22 19:13:00 | INFO | [24/67] There\u2019s New Evidence for How Loneliness Affects Memory in Old Age\n2026-04-22 19:13:00 | INFO | Discovered 4 new links | Total pending: 172\n2026-04-22 19:13:07 | INFO | [25/67] The \u2018Lonely Runner\u2019 Problem Only Appears Simple\n2026-04-22 19:13:07 | INFO | Discovered 4 new links | Total pending: 175\n2026-04-22 19:13:11 | INFO | [26/67] Submit Your Questions: Musk v. Altman and the Future of OpenAI\n2026-04-22 19:13:11 | INFO | Discovered 4 new links | Total pending: 178\n2026-04-22 19:13:17 | INFO | [27/67] A Humanoid Robot Set a Half-Marathon Record in China\n2026-04-22 19:13:26 | INFO | [28/67] 7 Apps to Help You Trim Down Subscriptions\u2014and Save Money\n2026-04-22 19:13:26 | INFO | Discovered 8 new links | Total pending: 184\n2026-04-22 19:13:33 | INFO | [29/67] OpenAI Beefs Up ChatGPT\u2019s Image Generation Model\n2026-04-22 19:13:34 | INFO | Discovered 1 new links | Total pending: 184\n2026-04-22 19:13:40 | INFO | [30/67] TAG Heuer Has Dropped New Polylight-Powered F1s\n2026-04-22 19:13:40 | INFO | Discovered 4 new links | Total pending: 187\n2026-04-22 19:13:46 | INFO | [31/67] The Best Chromebooks\n2026-04-22 19:13:47 | INFO | Discovered 17 new links | Total pending: 203\n2026-04-22 19:13:51 | INFO | [32/67] The Best Red Light Therapy Masks Can Save You Thousands of Dollars in \n2026-04-22 19:13:52 | INFO | Discovered 7 new links | Total pending: 209\n2026-04-22 19:13:57 | INFO | [33/67] The Best Valvoline Coupons and Promo Codes for April 2026\n2026-04-22 19:13:57 | INFO | Discovered 13 new links | Total pending: 221\n2026-04-22 19:14:02 | INFO | [34/67] War Memes Are Turning Conflict Into Content\n2026-04-22 19:14:03 | INFO | Discovered 1 new links | Total pending: 221\n2026-04-22 19:14:08 | INFO | [35/67] Tech CEOs Think AI Will Let Them Be Everywhere at Once\n2026-04-22 19:14:14 | INFO | [36/67] The Influencers Normalizing Not Having Sex\n2026-04-22 19:14:15 | INFO | Discovered 7 new links | Total pending: 226\n2026-04-22 19:14:20 | INFO | [37/67] The 8 Best Movies to Stream This Month\n2026-04-22 19:14:20 | INFO | Discovered 6 new links | Total pending: 231\n2026-04-22 19:14:29 | INFO | [38/67] The 10 Best TV Shows to Stream This Month\n2026-04-22 19:14:29 | INFO | Discovered 4 new links | Total pending: 234\n2026-04-22 19:14:35 | INFO | [39/67] The 24 Best Movies on Amazon Prime Right Now\n2026-04-22 19:14:35 | INFO | Discovered 10 new links | Total pending: 243\n2026-04-22 19:14:42 | INFO | [40/67] Silicon Valley Is Spending Millions to Stop One of Its Own\n2026-04-22 19:14:42 | INFO | Discovered 1 new links | Total pending: 243\n2026-04-22 19:14:48 | INFO | [41/67] Uncanny Valley: OpenAI and Musk Fight Again; DOJ Mishandles Voter Data\n2026-04-22 19:14:55 | INFO | [42/67] He Started a Social Network Alone. Then 5 Million People Signed Up\n2026-04-22 19:15:04 | INFO | [43/67] The Gamblers Behind One of the Weirdest Cheating Mysteries in Chess Ha\n2026-04-22 19:15:11 | INFO | [44/67] How the Vision Pro Rollout Inflamed Tensions at Apple\n2026-04-22 19:15:11 | INFO | Discovered 1 new links | Total pending: 240\n2026-04-22 19:15:16 | INFO | [45/67] Opposing ICE Might Save the Country. It Could Also Ruin Your Life\n2026-04-22 19:15:16 | INFO | Discovered 1 new links | Total pending: 240\n2026-04-22 19:15:24 | INFO | [46/67] \u2018Beer, Titties, Freedom\u2019: Inside the World\u2019s Toughest Off-Road Race\n2026-04-22 19:15:24 | INFO | Discovered 3 new links | Total pending: 242\n2026-04-22 19:15:32 | INFO | [47/67] Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are \n2026-04-22 19:15:32 | INFO | Discovered 4 new links | Total pending: 245\n2026-04-22 19:15:39 | INFO | [48/67] Marine Animals in the Strait of Hormuz Don\u2019t Get a Ceasefire\n2026-04-22 19:15:47 | INFO | [49/67] Security News This Week: Your Push Notifications Aren\u2019t Safe From the \n2026-04-22 19:15:47 | INFO | Discovered 1 new links | Total pending: 244\n2026-04-22 19:15:53 | INFO | [50/67] How the Internet Broke Everyone\u2019s Bullshit Detectors\n2026-04-22 19:15:53 | INFO | Discovered 2 new links | Total pending: 245\n2026-04-22 19:15:58 | INFO | [51/67] MAGA Media Seems to Have Hit Its Breaking Point Over Iran\n2026-04-22 19:15:59 | INFO | Discovered 3 new links | Total pending: 247\n2026-04-22 19:16:04 | INFO | [52/67] How Citizen Surveillance Ate San Francisco\n2026-04-22 19:16:10 | INFO | [53/67] When a Houseplant Obsession Becomes a Nightmare\n2026-04-22 19:16:15 | INFO | [54/67] How One Syrian Fought to the Death for a Free Internet\n2026-04-22 19:16:15 | INFO | Discovered 2 new links | Total pending: 246\n2026-04-22 19:16:20 | INFO | [55/67] Pan Am Flight 103: Robert Mueller\u2019s 30-Year Search for Justice\n2026-04-22 19:16:25 | INFO | [56/67] Where to Find the Energy to Save the World\n2026-04-22 19:16:25 | INFO | Discovered 1 new links | Total pending: 245\n2026-04-22 19:16:38 | INFO | [57/67] The US Government Will Ask Data Centers How Much Power They Use\n2026-04-22 19:16:38 | INFO | Discovered 1 new links | Total pending: 245\n2026-04-22 19:16:46 | INFO | [58/67] The EPA Is Ending Greenhouse Gas Data Collection. Who Will Step Up to \n2026-04-22 19:16:53 | INFO | [59/67] OpenAI Executive Kevin Weil Is Leaving the Company\n2026-04-22 19:16:53 | INFO | Discovered 1 new links | Total pending: 244\n2026-04-22 19:17:05 | INFO | [60/67] Meta Is Sued Over Scam Ads on Facebook and Instagram\n2026-04-22 19:17:05 | INFO | Discovered 1 new links | Total pending: 244\n2026-04-22 19:17:11 | INFO | [61/67] Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything\n2026-04-22 19:17:17 | INFO | [62/67] Staunch Trump Supporters Are Now Asking if He\u2019s the Antichrist\n2026-04-22 19:17:17 | INFO | Discovered 1 new links | Total pending: 243\n2026-04-22 19:17:24 | INFO | [63/67] Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure\n2026-04-22 19:17:29 | INFO | [64/67] A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant\n2026-04-22 19:17:35 | INFO | [65/67] Senators Demand to Know How Much Energy Data Centers Use\n2026-04-22 19:17:35 | INFO | Discovered 1 new links | Total pending: 241\n2026-04-22 19:17:44 | INFO | [66/67] New Bernie Sanders AI Safety Bill Would Halt Data Center Construction\n2026-04-22 19:17:51 | INFO | [67/67] NASA Wants to Put Nuclear Reactors on the Moon\n2026-04-22 19:17:51 | INFO | Discovered 1 new links | Total pending: 240\n2026-04-22 19:17:51 | INFO | Total links discovered: 307\n2026-04-22 19:17:51 | INFO | Articles scraped: 67\n",
+          "mimetype": "text/plain"
+        }
+      ]
     }
   ]
 }
