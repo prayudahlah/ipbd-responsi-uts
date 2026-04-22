@@ -1,0 +1,11 @@
+[project]
+name = "prefect-dag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "prefect>=3.6.27",
+    "psycopg2-binary>=2.9.12",
+    "requests>=2.33.1",
+]

@@ -1,0 +1,60 @@
+services:
+  metadata:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: prefect
+      POSTGRES_PASSWORD: prefect
+      POSTGRES_DB: prefect
+    volumes:
+      - ./data/metadata:/var/lib/postgresql/data
+      - ./postgres-init/metadata:/docker-entrypoint-initdb.d
+    networks:
+      - prefect
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  prefect:
+    image: prefecthq/prefect:3-latest
+    depends_on:
+      metadata:
+        condition: service_healthy
+    environment:
+      PREFECT_API_DATABASE_CONNECTION_URL: postgresql+asyncpg://prefect:prefect@metadata:5432/prefect
+      PREFECT_SERVER_API_HOST: 0.0.0.0
+      PREFECT_SERVER_UI_API_URL: http://localhost:4200/api
+      PREFECT_API_DATABASE_MIGRATE_ON_START: "true"
+    networks:
+      - prefect
+    ports:
+      - "4200:4200"
+    restart: unless-stopped
+    command: prefect server start --host 0.0.0.0 --port 4200
+
+  database:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: wired_articles
+    volumes:
+      - ./data/database:/var/lib/postgresql/data
+      - ./postgres-init/database:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"
+    networks:
+      - prefect
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+
+networks:
+  prefect:
+    driver: bridge
