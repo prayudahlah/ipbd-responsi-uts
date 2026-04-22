@@ -13,8 +13,7 @@ Proyek ini adalah pipeline ETL untuk mengambil artikel dari WIRED.com, menyediak
 ## Arsitektur Sistem
 
 ```
-scraping-wired/     -->     api-wired/      -->     prefect-dag/     -->     Database
-   (Scraper)            (API Server)         (ETL Pipeline)         (PostgreSQL)
+scrape wired.com dengan Selenium   -->   API dengan FastAPI   -->   ETL dengan prefect   -->   Database PostgreSQL
 ```
 
 ## Langkah Penggunaan
