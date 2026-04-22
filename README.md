@@ -32,6 +32,7 @@ Jalankan scraper menggunakan Marimo di folder `scraping-wired/`:
 
 ```bash
 cd scraping-wired/
+uv sync
 uv run marimo edit scrape.py
 ```
 
@@ -59,6 +60,7 @@ Jalankan FastAPI server di folder `api-wired/`:
 
 ```bash
 cd api-wired/
+uv sync
 uv run fastapi dev
 ```
 
@@ -87,6 +89,7 @@ Setelah semua layanan berjalan, jalankan pipeline ETL:
 
 ```bash
 cd prefect-dag/
+uv sync
 uv run flows/etl.py
 ```
 
