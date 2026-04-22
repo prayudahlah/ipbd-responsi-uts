@@ -1,0 +1,7 @@
+# Blacklist
+.env
+.env.*
+__pycache__/
+
+# Whitelist
+!.env.example
