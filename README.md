@@ -94,12 +94,12 @@ uv run flows/etl.py
 ```
 
 Pipeline ini akan:
-- Membaca data dari `wired_articles_final.json` lewat API
-- Melakukan transformasi data
-    1. **Validasi data** - Memeriksa kelengkapan field wajib (title, link)
-    2. **Normalisasi author** - Mengubah array `authors` menjadi relasi tersendiri dengan junction table `written_by` (many-to-many relationship)
-    3. **Hapus duplicate** - Menghapus artikel dengan link yang sama
-- Menyimpan data ke database PostgreSQL
+1. Membaca data dari `wired_articles_final.json` lewat API
+2. Melakukan transformasi data
+    - **Validasi data** - Memeriksa kelengkapan field wajib (title, link)
+    - **Normalisasi author** - Mengubah array `authors` menjadi relasi tersendiri dengan junction table `written_by` (many-to-many relationship)
+    - **Hapus duplicate** - Menghapus artikel dengan link yang sama
+3. Menyimpan data ke database PostgreSQL
 
 ![ETL Success](screenshots/etl_graph_success.png)
 
